@@ -9,6 +9,7 @@
     <uses-feature android:name="android.hardware.camera.front" android:required="false" />
 
     <application
+        android:name=".AirGestureApp"
         android:label="Air Gesture"
         android:theme="@android:style/Theme.DeviceDefault.Light">
 
